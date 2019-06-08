@@ -1,5 +1,5 @@
-## [JamStack App Fractal](https://appseed.us/apps/static/panini/jamstack-fractal)
-Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-fractal.appseed.us/) by AppSeed 
+## HTML5 Up Fractal coded in JAMstack
+Open-Source App - Live [Demo](https://jamstack-fractal.appseed.us/). Coded **AppSeed App Generator**
 
 ![JamStack Fractal by @AppSeed](https://github.com/app-generator/jamstack-fractal/blob/master/screenshots/jamstack-fractal.jpg)
 
@@ -17,6 +17,9 @@ Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-fractal.appseed.u
 - [JAMstack.org](https://jamstack.org/)
 - A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
 - A curated list with [JAMstack Apps](https://github.com/jamstack-apps/jamstack) published on Github
+
+## License
+MIT 
 
 ---
 Made with ♥ by [AppSeed](https://appseed.us?ref=github)
