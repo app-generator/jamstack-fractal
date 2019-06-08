@@ -18,8 +18,5 @@ Open-Source App - Live [Demo](https://jamstack-fractal.appseed.us/). Coded **App
 - A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
 - A curated list with [JAMstack Apps](https://github.com/jamstack-apps/jamstack) published on Github
 
-## License
-MIT 
-
 ---
 Made with ♥ by [AppSeed](https://appseed.us?ref=github)
