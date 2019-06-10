@@ -1,7 +1,7 @@
 ## [JamStack App Fractal](https://appseed.us/apps/static/panini/jamstack-fractal)
 Designed by HTML5 Up, Coded as [JAMstack App](https://jamstack-fractal.appseed.us/) by AppSeed 
 
-![JamStack Fractal by @AppSeed](https://github.com/app-generator/jamstack-fractal/blob/master/screenshots/jamstack-fractal.jpg)
+![HTML5 Up Fractal design coded in JAMstack](https://raw.githubusercontent.com/app-generator/static/master/html5up-fractal/html5up-fractal-coded-in-jamstack.jpg)
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-fractal.git`
