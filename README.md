@@ -1,7 +1,14 @@
-## HTML5 Up Fractal coded in JAMstack
-Open-Source App - Live [Demo](https://jamstack-fractal.appseed.us/). Coded **AppSeed App Generator**
+# HTML5 Up Fractal coded in JAMstack
+Open-Source App coded on top of **HTML5 Up Fractal design** in **JAMstack** architecture.
 
 ![HTML5 Up Fractal design coded in JAMstack](https://raw.githubusercontent.com/app-generator/static/master/html5up-fractal/html5up-fractal-coded-in-jamstack.jpg)
+
+## App Links
+---
+ - [JAMstack Fractal](https://appseed.us/apps/jamstack/html5up-fractal) - product page
+ - Live [demo](https://jamstack-fractal.appseed.us)
+ - [Documentation](https://docs.appseed.us/apps/html5up/html5up-fractal-coded-in-jamstack/)
+ - [HTML5 Up Fractal](https://html5up.net/fractal) - the original product
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/jamstack-fractal.git`
