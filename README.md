@@ -4,7 +4,7 @@ Open-Source app with **HTML5Up Fractal** design coded in **JAMstack** pattern
 
 <br />
 
-![JAMstack Fractal - App banner.](https://github.com/app-generator/static/blob/master/products/html5up-fractal.jpg?raw=true)
+![JAMstack Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-html5up-fractal-intro.gif?raw=true)
 
 <br />
 
